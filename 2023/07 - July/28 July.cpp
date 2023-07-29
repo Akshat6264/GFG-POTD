@@ -1,10 +1,10 @@
 /*
 
 Author : Akshat Kelotra
-Date : /0/2023
-Problem : 
-Difficulty : 
-Problem Link : 
+Date : 28/07/2023
+Problem : Lowest Common Ancestor in a BST
+Difficulty : Easy
+Problem Link : https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1
 
 */
 

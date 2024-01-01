@@ -28,9 +28,8 @@ class Solution {
                 if(f[need] == 0)
                     f.erase(need);
             }
-            else{
+            else
                 ++f[cur];
-            }
         }
         
         return f.size() == 0;

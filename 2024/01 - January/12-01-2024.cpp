@@ -1,7 +1,7 @@
 /*
 
 Author : Akshat Kelotra
-Date : 11/01/2024
+Date : 12/01/2024
 Problem : Reverse First K elements of Queue
 Difficulty : Easy
 Problem Link : https://www.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1
